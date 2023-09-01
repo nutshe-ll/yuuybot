@@ -45,16 +45,17 @@ pip instal yt-dlp
 
 ◙ After that, select one based on your operating system from the three options below
 
-![ffmpeg_installation](https://github.com/nutshe-ll/yuuybot/assets/79253256/8094cb3c-288e-48f6-b007-98c52478c006)
+![ffmpeg_installation](https://github.com/nutshe-ll/yuuybot/assets/79253256/3c165f15-fb7c-4d8c-81fc-f38408d25afd)
+
 
   - # Installing `ffmpeg` on Windows
     ◙ If you're in Windows, select `Windows builds by gyan.dev`
     
-    ![windows_ffmpeg_installation](https://github.com/nutshe-ll/yuuybot/assets/79253256/9d59d949-7a64-46bb-8e10-6f56b5840a64)
+    ![windows_ffmpeg_installation](https://github.com/nutshe-ll/yuuybot/assets/79253256/3f604ce8-b9a3-4e93-80c1-97c4bdbde0b5)
     
     ◙ After you selected it, you will be redirected to `https://www.gyan.dev/ffmpeg/builds/`
 
-    ![windows_ffmpeg_installation_gyan_dev](https://github.com/nutshe-ll/yuuybot/assets/79253256/96952f90-4abf-46c4-9a14-c1ad637e1d6c)
+    ![windows_ffmpeg_installation_gyan_dev](https://github.com/nutshe-ll/yuuybot/assets/79253256/621ae2f1-e96d-4431-959a-2d08f73b2f6b)
 
     ◙ Select `ffmpeg-git-full.7z`
     
@@ -64,15 +65,15 @@ pip instal yt-dlp
     
     ◙ After that, open `Edit the system environment variables`
     
-    ![searching_environment_variables](https://github.com/nutshe-ll/yuuybot/assets/79253256/53a406f2-ce66-4cc9-876f-ec1a1b5e2c70)
+    ![environmental_variables](https://github.com/nutshe-ll/yuuybot/assets/79253256/332c1b6a-ec26-4179-9c46-557380980a10)
 
     ◙ If you get this popup, select `Environment Variables`
 
-    ![environmental_variables_popup](https://github.com/nutshe-ll/yuuybot/assets/79253256/e5d9780f-0a90-4523-9eaa-7149e4d47c1b)
+    ![environment_variables_popup](https://github.com/nutshe-ll/yuuybot/assets/79253256/a53db330-b083-4e84-b3b3-002757ea57c7)
 
      ◙ At `System Variables`, select `PATH` and select `Edit`
 
-    ![environment_variables_edit](https://github.com/nutshe-ll/yuuybot/assets/79253256/2cde360b-97b3-4a22-bbee-c8b32dc0d457)
+    ![environment_variables_edit](https://github.com/nutshe-ll/yuuybot/assets/79253256/db4225e8-acad-4d68-8524-1e29566350e1)
 
     ◙ Now, select `New`, and then set the value to `C:/ffmpeg`
 
