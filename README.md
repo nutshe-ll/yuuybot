@@ -49,7 +49,7 @@ pip instal yt-dlp
 
 
   - # Installing `ffmpeg` on Windows
-    ◙ If you're in Windows, select `Windows builds by gyan.dev`
+    ◙ If you're on Windows, select `Windows builds by gyan.dev`
     
     ![windows_ffmpeg_installation](https://github.com/nutshe-ll/yuuybot/assets/79253256/cb30f63e-7f94-4532-a7da-2c9f8d32ef5f)
 
